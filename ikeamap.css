@@ -1,5 +1,13 @@
 body {
   background-color: #012b72;
+  font-family: Verdana;
+}
+div.flex-header {
+  color: #fdfdfe;
+  display: flex;
+  margin: 0;
+  flex-direction: row;
+  align-items: left;
 }
 div.flex-container {
   display: flex;
@@ -17,7 +25,6 @@ img.maplines {
   margin-bottom: auto;
 }
 h1 {
-  font-family: Verdana;
   font-weight: normal;
   font-size: 60;
   color: #fdfdfe;
