@@ -1,6 +1,9 @@
 body {
   background-color: #012b72;
 }
+div.flex-container {
+  display: flex;
+}
 img.maplines {
   height: 870;
   margin-left: auto;
