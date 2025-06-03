@@ -50,10 +50,10 @@ h3 {
 }
 .button {
   position: absolute;
-  height: 29;
-  width: 29;
+  height: 22;
+  width: 22;
 }
-.button [target="about"] {
-  margin-top: -100;
-  margin-left: 200;
+#about {
+  margin-top: 683;
+  margin-left: 510;
 }
