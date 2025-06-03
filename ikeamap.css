@@ -3,19 +3,23 @@ body {
   font-family: Verdana;
 }
 div.flex-header {
-  color: #fdfdfe;
   display: flex;
-  margin: 0;
+  padding: 5;
+  margin: -10;
+  background-color: #fdfdfe;
   flex-direction: row;
-  align-items: left;
 }
 div.flex-container {
   display: flex;
-  margin: 0 auto;
+  margin: auto;
   max-width: 870;
   flex-direction: column;
   justify-content: center;
   align-items: left;
+}
+.logo {
+  max-width: 200;
+  margin: 10;
 }
 img.maplines {
   height: 870;
