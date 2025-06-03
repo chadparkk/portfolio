@@ -19,8 +19,8 @@ div.flex-container {
   align-items: left;
 }
 .logo {
-  max-width: 200;
-  margin: 10;
+  max-width: 120;
+  margin: 5;
 }
 img.maplines {
   height: 870;
@@ -42,10 +42,10 @@ h2 {
 }
 h3 {
   display: flex;
-  margin-right: auto;
-  margin-left: 320;
+  margin: auto;
   justify-self: right;
   font-weight: bold;
   font-size: 32;
   color: black;
 }
+
