@@ -13,7 +13,7 @@ div.flex-header {
 div.flex-container {
   display: flex;
   margin: auto;
-  max-width: 750;
+  max-width: 650;
   flex-direction: column;
   justify-content: center;
   align-items: left;
@@ -23,7 +23,7 @@ div.flex-container {
   margin: 5;
 }
 img.maplines {
-  height: 870;
+  height: 650;
   margin-left: auto;
   margin-right: auto;
   margin-top: auto;
