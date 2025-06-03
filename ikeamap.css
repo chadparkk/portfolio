@@ -34,6 +34,11 @@ h1 {
   font-size: 60;
   color: #fdfdfe;
 }
+h2 {
+  font-weight: normal;
+  font-size: 25;
+  color: #fdfdfe;
+}
 h3 {
   display: flex;
   margin-right: auto;
