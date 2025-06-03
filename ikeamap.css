@@ -6,6 +6,7 @@ div.flex-header {
   display: flex;
   padding: 5;
   margin: -10;
+  align-items: center;
   background-color: #fdfdfe;
   flex-direction: row;
 }
@@ -34,7 +35,11 @@ h1 {
   color: #fdfdfe;
 }
 h3 {
+  display: flex;
+  margin-right: auto;
+  margin-left: 320;
+  justify-self: right;
   font-weight: bold;
-  font-size: 35;
+  font-size: 32;
   color: black;
 }
