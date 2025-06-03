@@ -49,7 +49,9 @@ h3 {
   color: black;
 }
 .button {
+  position: absolute;
   height: 29;
+  width: 29;
 }
 .button [target="about"] {
   margin-top: -100;
