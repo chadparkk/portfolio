@@ -48,12 +48,8 @@ h3 {
   font-size: 32;
   color: black;
 }
-.button {
-  position: absolute;
+#about {
   height: 22;
   width: 22;
-}
-#about {
-  margin-top: 683;
-  margin-left: 510;
+
 }
