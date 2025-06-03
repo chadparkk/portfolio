@@ -48,4 +48,10 @@ h3 {
   font-size: 32;
   color: black;
 }
-
+.button {
+  height: 29;
+}
+.button [target="about"] {
+  margin-top: -100;
+  margin-left: 200;
+}
