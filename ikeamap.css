@@ -13,7 +13,7 @@ div.flex-header {
 div.flex-container {
   display: flex;
   margin: auto;
-  max-width: 870;
+  max-width: 750;
   flex-direction: column;
   justify-content: center;
   align-items: left;
