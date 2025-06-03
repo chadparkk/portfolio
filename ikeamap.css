@@ -3,6 +3,8 @@ body {
 }
 div.flex-container {
   display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 img.maplines {
   height: 870;
@@ -11,7 +13,7 @@ img.maplines {
   margin-top: auto;
   margin-bottom: auto;
 }
-span.heading1 {
+h1 {
   font-family: Verdana;
   font-weight: normal;
   font-size: 60;
