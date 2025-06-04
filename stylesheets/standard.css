@@ -14,7 +14,7 @@
     font-family: Helvetica;
     font-style: normal;
     font-weight: bold;
-    src: local('Helvetica'), url('Helvetica-Bold.woff') format('woff');
+    src: local('Helvetica-Bold'), url('Helvetica-Bold.woff') format('woff');
 }
 @font-face {
     font-family: Helvetica;
@@ -43,8 +43,7 @@ body {
     display: flex;
     flex-direction: column;
     padding: 0;
-    margin-left: 10;
-    margin-top: 60;
+    margin: 50;
     width: 480;
     height: 250;
 }
@@ -53,12 +52,15 @@ h1 {
     font-family: Helvetica;
     font-weight: bold;
     font-size: 80;
-    margin-top: -20;
+    margin-top: -5;
+    margin-left: 15;
 }
 h3 {
     display: flex;
     font-family: Helvetica;
     font-weight: bold;
     font-size: 40;
-    margin-top: -65;
+    margin-top: -60;
+    margin-left: 15;
+}
 }
