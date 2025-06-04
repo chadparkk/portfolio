@@ -39,7 +39,8 @@ div.flex-header {
   padding: 10;
   justify-self: right;
   font-family: Helvetica;
-  font-weight: bold;
+  font-weight: bold; 
+color: #fdfdfe;
 }
 .flex-container {
   display: flex;
