@@ -37,7 +37,6 @@ body {
     width: 850;
     height: 2800;
     margin: auto;
-    justify-content: left;
     background-color: #ffffff;
     padding-bottom: 60;
 }
@@ -49,7 +48,9 @@ p.text {
     margin: auto;
 }
 #newsshot {
-    width: 580;
-    margin: auto;
-    padding: 30;
+    display: flex;
+    width: 500;
+    justify-self: center;
+    margin: 40;
+    padding-bottom: 30;
 }
