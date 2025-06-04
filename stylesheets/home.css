@@ -38,7 +38,8 @@ div.flex-header {
   display: flex;
   padding: 5;
   justify-self: right;
-  font-family: Helvetica-Bold;
+  font-family: Helvetica;
+  font-weight: bold;
 }
 .flex-container {
   display: flex;
@@ -74,7 +75,8 @@ h3 {
   display: flex;
   margin: auto;
   justify-self: right;
-  font-family: Helvetica Bold;
+  font-family: Helvetica;
+  font-weight: bold;
   font-size: 32;
   color: black;
 }
