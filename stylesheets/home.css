@@ -54,11 +54,15 @@ h3 {
 }
 .button1:hover {
   display: flex;
-  height: 27;
+  filter: opacity(90%);
 }
 .button2 {
   display: flex;
   height: 72;
+}
+.button2:hover {
+  display: flex;
+  filter: opacity(90%);
 }
 #about {
   position: absolute;
