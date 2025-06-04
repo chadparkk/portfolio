@@ -10,6 +10,10 @@ div.flex-header {
   background-color: #fdfdfe;
   flex-direction: row;
 }
+#headertext {
+  display: flex;
+  justify-self: right;
+}
 .flex-container {
   display: flex;
   margin: auto;
