@@ -92,7 +92,7 @@ h3 {
   display: flex;
   margin: auto;
   justify-self: right;
-  font-weight: bold;
+  font-family: Helvetica Bold;
   font-size: 32;
   color: black;
 }
