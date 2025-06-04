@@ -30,6 +30,7 @@
 }
 body {
     background-color: #57565B;
+    font-family: Helvetica;
 }
 .page {
     display: block;
@@ -39,4 +40,11 @@ body {
     justify-content: left;
     background-color: #ffffff;
     padding-bottom: 60;
+}
+p.text {
+    color: black;
+    font-size: 20;
+    z-index: 1;
+    width: 750;
+    margin: auto;
 }
