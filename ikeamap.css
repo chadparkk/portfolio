@@ -52,6 +52,9 @@ h3 {
   height: 23;
   width: 23;
 }
+.button2 {
+  height: 72;
+}
 #about {
   position: absolute;
   margin-top: 665;
@@ -91,4 +94,9 @@ h3 {
   position: absolute;
   margin-top: 162;
   margin-left: 81;
+}
+#mediapool {
+  position: absolute;
+  margin-top: 498;
+  margin-left: 37;
 }
