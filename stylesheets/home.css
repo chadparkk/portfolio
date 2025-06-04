@@ -36,7 +36,7 @@ div.flex-header {
 }
 #headertext {
   display: flex;
-  padding: 5;
+  padding: 10;
   justify-self: right;
   font-family: Helvetica;
   font-weight: bold;
