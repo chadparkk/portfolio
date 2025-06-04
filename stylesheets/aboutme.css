@@ -48,3 +48,8 @@ p.text {
     width: 750;
     margin: auto;
 }
+#newsshot {
+    width: 580;
+    margin: auto;
+    padding: 30;
+}
