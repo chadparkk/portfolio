@@ -26,5 +26,7 @@ body {
     background-color: #6e85ae;
 }
 #boundary {
-    color: white;
+    width: 850;
+    align: center;
+    background-color: #d2d2d2;
 }
