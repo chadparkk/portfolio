@@ -39,8 +39,8 @@ div.flex-header {
   padding: 10;
   justify-self: right;
   font-family: Helvetica;
-  font-weight: bold; 
-color: #fdfdfe;
+  font-weight: bold;
+  color: black;
 }
 .flex-container {
   display: flex;
@@ -79,7 +79,7 @@ h3 {
   font-family: Helvetica;
   font-weight: bold;
   font-size: 32;
-  color: black;
+  color: #fdfdfe;
 }
 footer {
   font-family: Helvetica;
