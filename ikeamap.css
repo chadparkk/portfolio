@@ -48,8 +48,11 @@ h3 {
   font-size: 32;
   color: black;
 }
-#about {
+.button1 {
   height: 22;
   width: 22;
-  background: url(designs/ikea_map_complete_final.png) 1330 1494
+}
+#about {
+  margin-top: 100;
+  margin-left: 300;
 }
