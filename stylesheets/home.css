@@ -55,6 +55,7 @@ div.flex-header {
 #headertext {
   display: flex;
   justify-self: right;
+  font-family: Helvetica-Bold;
 }
 .flex-container {
   display: flex;
