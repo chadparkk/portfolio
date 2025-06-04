@@ -22,3 +22,6 @@
     font-weight: bold;
     src: local('Helvetica Bold Oblique'), url('Helvetica-BoldOblique.woff') format('woff');
 }
+body {
+    background-color: #6e85ae;
+}
