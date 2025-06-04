@@ -10,7 +10,7 @@ div.flex-header {
   background-color: #fdfdfe;
   flex-direction: row;
 }
-div.flex-container {
+.flex-container {
   display: flex;
   margin: auto;
   max-width: 600;
@@ -49,10 +49,11 @@ h3 {
   color: black;
 }
 .button1 {
+  display: flex;
   height: 23;
-  width: 23;
 }
 .button2 {
+  display: flex;
   height: 72;
 }
 #about {
