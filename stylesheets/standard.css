@@ -23,10 +23,10 @@
     src: local('Helvetica Bold Oblique'), url('Helvetica-BoldOblique.woff') format('woff');
 }
 body {
-    background-color: #6e85ae;
+    background-color: #d2d2d2;
 }
 #boundary {
     width: 850;
     align: center;
-    background-color: #d2d2d2;
+    background-color: #white;
 }
