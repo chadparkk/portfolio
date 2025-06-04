@@ -53,34 +53,42 @@ h3 {
   width: 23;
 }
 #about {
-  margin-top: -43;
+  position: absolute;
+  margin-top: 665;
   margin-left: 496;
 }
 #socials {
-  margin-top: 0;
-  margin-left: 0;
+  position: absolute;
+  margin-top: 293;
+  margin-left: 465;
 }
 #calendar {
-  margin-top: 0;
-  margin-left: 0;
+  position: absolute;
+  margin-top: 366;
+  margin-left: 271;
 }
 #gallery {
-  margin-top: 0;
-  margin-left: 0;
+  position: absolute;
+  margin-top: 75;
+  margin-left: 250;
 }
 #videos {
-  margin-top: 0;
-  margin-left: 0;
+  position: absolute;
+  margin-top: 16;
+  margin-left: 514;
 }
 #works {
-  margin-top: 0;
-  margin-left: 0;
+  position: absolute;
+  margin-top: -289;
+  margin-left: 262;
 }
 #toolbox {
-  margin-top: 0;
-  margin-left: 0;
+  position: absolute;
+  margin-top: -187;
+  margin-left: 53;
 }
 #library {
-  margin-top: 0;
-  margin-left: 0;
+  position: absolute;
+  margin-top: 162;
+  margin-left: 81;
 }
