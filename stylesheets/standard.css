@@ -40,27 +40,27 @@ body {
     background-color: #ffffff;
 }
 .title1 {
-    display: flex;
+    postion: absolute;
     flex-direction: column;
     padding: 0;
-    margin: 50;
+    margin-top: 50;
+    margin-left: 50;
     width: 480;
     height: 250;
 }
 h1 {
-    display: flex;
+    position: absolute;
     font-family: Helvetica;
     font-weight: bold;
     font-size: 80;
-    margin-top: -5;
+    margin-top: -3;
     margin-left: 15;
 }
 h3 {
-    display: flex;
+    position: absolute;
     font-family: Helvetica;
     font-weight: bold;
     font-size: 40;
-    margin-top: -60;
+    margin-top: 68;
     margin-left: 15;
-}
 }
