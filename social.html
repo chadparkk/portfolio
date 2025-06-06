@@ -1,18 +1,31 @@
 <html>
     <head>
-        <title>Socials</title>
+        <title>Socials & Contacts</title>
         <link rel="icon" type="image/x-icon" href="designs/jiji_icon.png">
+        <style>
+            body {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                background-image: url(designs/smaland_picture.jpeg)
+            }
+            #email {
+                display: flex;
+                font-family: Helvetica;
+                text-decoration: none;
+                color: black;
+                background-color: white;
+                margin-top: 70;
+                padding: 8;
+                outline-color: black;
+                outline-width: 20;
+                outline-style: solid;
+            }
+        </style>
     </head>
-    <style>
-        body {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            background-image: url(designs/smaland_picture.jpeg)
-        }
-    </style>
     <body>
-        <a href="https://linktr.ee/chadparkk" target="_blank"><img src="designs/smalplace_place.png" style="display:flex; margin: auto; height: 600;"></a>
-        <h1>chadparkk@gmail.com</h1>
+        <a href="https://linktr.ee/chadparkk" target="_blank"><img src="designs/smalplace_place.png" style="display:flex; height: 400; margin-top: 100;"></a>
+        <a id="email" href="mailto:"><h1>&emsp;to: chadparkk@gmail.com&emsp;</h1></a>
     </body>
 </html>
