@@ -43,9 +43,10 @@ body {
 p.text {
     color: black;
     font-size: 16;
-    line-height: 1.5;
     z-index: 1;
-    width: 710;
+    text-align: justify;
+    line-height: 1.5;
+    width: 720;
     margin: auto;
 }
 #newsshot {
