@@ -55,3 +55,10 @@ p.text {
     margin-top: -90;
     margin-bottom: 90;
 }
+#resumebutton {
+    color: black;
+    font-size: 16;
+    text-decoration: none;
+    line-height: 1.5;
+    margin: auto;
+}
