@@ -56,9 +56,9 @@ p.text {
     margin-bottom: 90;
 }
 #resumebutton {
-    color: black;
-    font-size: 16;
-    text-decoration: none;
-    line-height: 1.5;
-    margin: auto;
+    position: absolute;
+    background-color: #032d73;
+    height: 50;
+    width: 200;
+    text-align: center;
 }
