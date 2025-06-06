@@ -73,7 +73,7 @@ p.text {
 }
 #resumebutton:hover {
   display: flex;
-    background-color: #0159ab;
+    background-color: #0c4173;
     padding: 10;
     margin: auto;
     margin-top: -5;
@@ -81,5 +81,4 @@ p.text {
     text-decoration: none; 
     font-weight: bold; 
     font-size: 20
-  filter: opacity(90%);
 }
