@@ -1,4 +1,5 @@
-<html><head>
+<html>
+<head>
         <title>Calendar</title>
         <link rel="icon" type="image/x-icon" href="designs/jiji_icon.png">
         <style>
@@ -10,6 +11,7 @@
             }
             body {
                 background-color: #012b72;
+                font-family: Verdana;
             }
             #calendar {
                 border-width: 0;
@@ -20,6 +22,7 @@
             }
             #frame {
                 display: flex;
+                flex-direction: column;
                 justify-content: center;
                 align-content: center;
                 margin-bottom: 40;
@@ -27,6 +30,7 @@
         </style>
     </head>
     <body>
+        <h2 style="display: flex; justify-content: center;">My Calendar</h2>
         <div><a href="https://chadparkk.github.io/portfolio/" class="home"><img style="height: 50" src="designs/map_icon2.png"></a></div>
         <div id="frame"><iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;ctz=America%2FEdmonton&amp;showPrint=0&amp;showTitle=0&amp;src=MmQxMmQ1M2YzYWEzMzdiMzFiZTdmMjQyMTI2MDFmMTU5OTc3MTEwMmMyMTkwNTk3MzQ4N2IzZWEyODcxZGYzOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%238e24aa" id="calendar"></iframe></div>
     
