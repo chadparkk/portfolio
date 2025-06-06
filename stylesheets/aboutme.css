@@ -43,16 +43,15 @@ body {
 p.text {
     color: black;
     font-size: 16;
-    z-index: 1;
-    text-align: justify;
     line-height: 1.5;
-    width: 720;
+    z-index: 1;
+    width: 710;
     margin: auto;
 }
 #newsshot {
     display: flex;
     width: 500;
     justify-self: center;
-    margin: 40;
-    padding-bottom: 30;
+    margin-top: 40;
+    margin-bottom: 40;
 }
