@@ -33,7 +33,10 @@ body {
     font-family: Helvetica;
 }
 .page {
-    display: block;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
     width: 850;
     height: 1400;
     margin: auto;
@@ -47,19 +50,19 @@ p.text {
     z-index: 1;
     width: 710;
     margin: auto;
+    margin-top: -70;
 }
 #newsshot {
-    display: block;
+    display: flex;
     width: 500;
-    justify-self: center;
-    margin-top: -90;
-    margin-bottom: 90;
+    margin: auto;
+    margin-top: -90
 }
 #resumebutton {
-    display: block;
-    position: absolute;
+    display: flex;
     background-color: #032d73;
     height: 50;
     width: 200;
+    margin: auto;
     text-align: center;
 }
