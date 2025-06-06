@@ -38,7 +38,6 @@ body {
     height: 2300;
     margin: auto;
     background-color: #ffffff;
-    padding-bottom: 60;
 }
 p.text {
     color: black;
@@ -52,6 +51,5 @@ p.text {
     display: flex;
     width: 500;
     justify-self: center;
-    margin-top: 40;
-    margin-bottom: 40;
+    margin-bottom: 45;
 }
