@@ -50,7 +50,7 @@ p.text {
     z-index: 1;
     width: 710;
     margin: auto;
-    margin-top: -70;
+    margin-top: 0;
 }
 #newsshot {
     display: flex;
@@ -60,9 +60,12 @@ p.text {
 }
 #resumebutton {
     display: flex;
-    background-color: #032d73;
-    height: 50;
-    width: 200;
+    background-color: #57565B;
+    padding: 10;
     margin: auto;
-    text-align: center;
+    margin-top: 0;
+    color: white; 
+    text-decoration: none; 
+    font-weight: bold; 
+    font-size: 20
 }
