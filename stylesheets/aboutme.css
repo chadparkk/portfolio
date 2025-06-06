@@ -49,13 +49,14 @@ p.text {
     margin: auto;
 }
 #newsshot {
-    display: flex;
+    display: block;
     width: 500;
     justify-self: center;
     margin-top: -90;
     margin-bottom: 90;
 }
 #resumebutton {
+    display: block;
     position: absolute;
     background-color: #032d73;
     height: 50;
