@@ -71,3 +71,15 @@ p.text {
     font-weight: bold; 
     font-size: 20
 }
+#resumebutton:hover {
+  display: flex;
+    background-color: #0159ab;
+    padding: 10;
+    margin: auto;
+    margin-top: -5;
+    color: white; 
+    text-decoration: none; 
+    font-weight: bold; 
+    font-size: 20
+  filter: opacity(90%);
+}
