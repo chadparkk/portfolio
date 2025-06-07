@@ -19,6 +19,8 @@ body {
     background-color: #ffffff;
 }
 .galleryphotos {
-    height: 250;
+    display: flex;
+    margin: auto;
+    height: 210;
     width: auto;
-}
+]
