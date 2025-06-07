@@ -1,1 +1,47 @@
+@font-face {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Helvetica'), url('Helvetica.woff') format('woff');
+}
+@font-face {
+    font-family: Helvetica;
+    font-style: italic;
+    font-weight: normal;
+    src: local('Helvetica Oblique'), url('Helvetica-Oblique.woff') format('woff');
+}
+@font-face {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    src: local('Helvetica Bold'), url('Helvetica-Bold.woff') format('woff');
+}
+@font-face {
+    font-family: Helvetica;
+    font-style: italic;
+    font-weight: bold;
+    src: local('Helvetica Bold Oblique'), url('Helvetica-BoldOblique.woff') format('woff');
+}
+.home {
+    position: sticky;
+    opacity: 90%;
+    top: 40;
+    padding: 6;
+}
+body {
+    background-color: #57565B;
+    font-family: Helvetica;
+}
+.page {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    width: 1000;
+    height: 1300;
+    margin: auto;
+    margin-bottom: 40;
+    background-color: #ffffff;
+    padding-bottom: 60;
+}
 
