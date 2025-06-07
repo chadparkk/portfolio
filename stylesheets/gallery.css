@@ -23,7 +23,6 @@
     src: local('Helvetica Bold Oblique'), url('Helvetica-BoldOblique.woff') format('woff');
 }
 .home {
-    display: block;
     position: sticky;
     opacity: 90%;
     top: 40;
@@ -32,8 +31,12 @@
 body {
     background-color: #57565B;
     font-family: Helvetica;
+}
+#pagedisplay {
+    height: calc(100% - 62px);
+    width: 100%;
     display: flex;
-    align-content: center;
+    align-items: center;
 }
 .page {
     display: flex;
@@ -42,7 +45,6 @@ body {
     width: 2275;
     height: 500;
     margin-left: 7;
-    margin-right: 40;
     background-color: #ffffff;
 }
 .galleryphotos {
