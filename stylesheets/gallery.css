@@ -39,7 +39,7 @@ body {
     width: 2275;
     height: 500;
     margin-left: 70;
-    margin-right: 70;
+    margin-right: 40;
     margin-top: -47;
     background-color: #ffffff;
 }
@@ -51,7 +51,7 @@ body {
     width: auto;
 }
 #sources {
-    margin: 5;
+    margin: 7;
     margin-top: 0;
     font-family: Helvetica;
 }
