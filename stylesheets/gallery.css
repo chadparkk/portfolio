@@ -21,6 +21,7 @@ body {
 .galleryphotos {
     display: flex;
     margin: auto;
+    margin-left: 7;
     height: 210;
     width: auto;
 ]
