@@ -23,18 +23,27 @@
             #originals {
                 height: 400;
             }
+            .button {
+                display: flex;
+                height: 60;
+                rotate: -90deg;
+                z-index: 1;
+                margin-left: 320;
+                margin-top: -80;
+            }
         </style>
     </head>
     <body>
-    <a href="https://chadparkk.github.io/portfolio/" class="home"><img style="height: 50" src="designs/map_icon2.png"></a>
+        <a href="https://chadparkk.github.io/portfolio/" class="home"><img style="height: 50" src="designs/map_icon2.png"></a>
         <div class="parent">
-    <div class="imagebox">
-            <a href="writtenworks.html"><img id="written" src="designs/Ikea_self_serve_transcriptions.jpg"></a>
-    </div>
-    <div id="imagebox">
-            <a href="originalstuff.html"><img id="originals" src="designs/Ikea_self_serve_originals.jpg"></a>
+            <div class="imagebox">
+                <img id="written" src="designs/Ikea_self_serve_transcriptions.jpg">
+                <a href="writtenworks.html"><img src="designs/Ikea_arrow.png" class="button"></a>
+            </div>
+            <div class="imagebox">
+                <img src="designs/Ikea_self_serve_originals.jpg" id="originals">
+                <a href="originalstuff.html"><img class="button" src="designs/Ikea_arrow.png"></a>
+            </div>
         </div>
-</div>
     
-
 </body></html>
