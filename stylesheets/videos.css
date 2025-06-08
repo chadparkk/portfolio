@@ -35,7 +35,7 @@ body {
 .page {
     display: flex;
     flex-direction: column;
-    width: 1000;
+    width: 1200;
     height: 2200;
     margin: auto;
     margin-top: -20;
