@@ -32,17 +32,6 @@ body {
     background-color: #57565B;
     font-family: Helvetica;
 }
-.page {
-    display: flex;
-    flex-direction: column;
-    width: 1200;
-    height: 2450;
-    margin: auto;
-    margin-top: -20;
-    margin-bottom: 40;
-    background-color: #ffffff;
-    padding-bottom: 60;
-}
 .page2 {
     display: flex;
     flex-direction: column;
@@ -62,16 +51,7 @@ body {
 h1 {
     margin-top: 40;
     margin-bottom: 20;
-    margin-left: 20;
-}
-.description {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 22;
-    width: 560;
-    height: 315;
-    
+    margin-left: 20; 
 }
 .transdescription {
     display: flex;
@@ -80,10 +60,6 @@ h1 {
     font-size: 22;
     width: 500;
     margin: 20;
-}
-.videounit {
-    display: flex;
-    justify-content: space-around;
 }
 .transunit {
     display: flex;
@@ -96,12 +72,7 @@ h1 {
 .transimage {
     height: 275;
     margin: 20;
-    
 }
 p {
     margin: 0;
-}
-span.trans {
-    margin: 40;
-    font-size: 15;
 }
