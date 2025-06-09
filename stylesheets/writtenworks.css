@@ -101,3 +101,7 @@ h1 {
 p {
     margin: 0;
 }
+span.trans {
+    margin: 40;
+    font-size: 15;
+}
