@@ -64,5 +64,6 @@ h1 {
 }
 .unit {
     display: flex;
+    background-image: url("designs/ikea_tools_motif(L)_clear.png");
     justify-content: space-around;
 }
