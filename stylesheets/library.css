@@ -73,6 +73,7 @@ p.description {
     display: flex;
     justify-content: space-around;
     height: 300;
+    margin: 15;
 }
 .bookcover {
     display: flex;
