@@ -62,7 +62,7 @@ h1 {
     height: 315;
     
 }
-.videounit {
+.unit {
     display: flex;
     justify-content: space-around;
 }
