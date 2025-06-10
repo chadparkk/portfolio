@@ -82,3 +82,9 @@ p.description {
 p {
     margin-top: 0;
 }
+.subnote {
+    display: flex; 
+    margin: auto;
+    margin-top: 50;
+    width: 400;
+}
