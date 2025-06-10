@@ -53,11 +53,18 @@ h1 {
     margin-bottom: 20;
     margin-left: 20;
 }
-.description {
+h3.description {
     display: flex;
-    align-items: center;
+    align-items: flex-end;
     justify-content: center;
-    font-size: 22;
+    width: 560;
+    height: 315;
+    
+}
+p.description {
+    display: flex;
+    align-items: flex-start;
+    font-size: 15;
     width: 560;
     height: 315;
     
@@ -65,11 +72,13 @@ h1 {
 .unit {
     display: flex;
     justify-content: space-around;
+    height: 500;
+}
+.bookcover {
+    display: flex;
+    height: 300;
+    align-items: center;
 }
 p {
     margin-top: 0;
-}
-span.trans {
-    margin: 40;
-    font-size: 15;
 }
